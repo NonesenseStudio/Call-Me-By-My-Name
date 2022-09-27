@@ -1,0 +1,14 @@
+{
+  "name": "call-me-by-my-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NonesenseStudio/Call-Me-By-My-Name",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
